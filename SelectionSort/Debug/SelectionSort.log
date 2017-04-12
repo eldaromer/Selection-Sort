@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\omer\documents\visual studio 2015\projects\selectionsort\selectionsort\main.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\omer\documents\visual studio 2015\projects\selectionsort\selectionsort\main.cpp(22): warning C4018: '<': signed/unsigned mismatch
+  SelectionSort.vcxproj -> c:\users\omer\documents\visual studio 2015\Projects\SelectionSort\Debug\SelectionSort.exe
+  SelectionSort.vcxproj -> c:\users\omer\documents\visual studio 2015\Projects\SelectionSort\Debug\SelectionSort.pdb (Partial PDB)
